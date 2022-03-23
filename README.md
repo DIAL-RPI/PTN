@@ -6,7 +6,7 @@ This is a python (PyTorch) implementation of **Polar Transform Network (PTN)** m
 ## Citation
     @article{Xu2022PTN,
       title={Polar transform network for prostate ultrasound segmentation with uncertainty estimation}, 
-      author={Xu, Xuanang and Sanford, Thomas and Turkbey, Baris and Xu, Sheng and Wood, Bradford J and Yan, Pingkun},
+      author={Xu, Xuanang and Sanford, Thomas and Turkbey, Baris and Xu, Sheng and Wood, Bradford J. and Yan, Pingkun},
       journal={Medical Image Analysis}, 
       pages={102418},
       year={2022},
