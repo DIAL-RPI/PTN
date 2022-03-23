@@ -8,7 +8,7 @@ cfg['epoch_num'] = 400 # max training epochs
 cfg['batch_size'] = 16 # batch size for training
 cfg['test_batch_size'] = 16 # batch size for testing
 cfg['lr'] = 0.001 # base learning rate
-cfg['model_path'] = '/home/user/proj/prostate/models' # directory where to store the trained models
+cfg['model_path'] = '/home/username/proj/prostate/models' # directory where to store the trained models
 cfg['im_size'] = 256 # resampled image size (in pixel) (all the original image will be firstly resampled to a size of im_size x im_size x im_size)
 cfg['im_spacing'] = 0.5 # resampled image resolution (in millimeter) (all the original image will be firstly resampled to a spacing of im_spacing x im_spacing x im_spacing)
 cfg['polar_size'] = [128,64,64] # polar image size: [U, V, R]
@@ -21,7 +21,7 @@ cfg['cp_perturb'] = 0.05 # standard deviation sigma of the zero-mean Gaussian no
 
 # list of dataset names and paths
 cfg['data_path_train'] = [
-    ['prostate-3-fold', '/home/user/data/prostate'],
+    ['prostate-3-fold', '/home/username/data/prostate'],
 ]
 
 # map labels of different datasets to a uniform label map
