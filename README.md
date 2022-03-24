@@ -13,6 +13,8 @@ This is a python (PyTorch) implementation of **Polar Transform Network (PTN)** m
       publisher={Elsevier}
     }
 
+## Method
+
 ### Scheme of Polar Transformation for Prostate Ultrasound Segmentation
 <img src="./fig2.png"/>
 
