@@ -1,4 +1,4 @@
-# Polar Transform Network
+# Polar Transform Network (PTN)
 Polar Transform Network for Prostate Ultrasound Segmentation with Uncertainty Estimation
 
 This is a python (PyTorch) implementation of **Polar Transform Network (PTN)** method for prostate ultrasound segmentation proposed in our ***Medical Image Analysis*** journal paper [**"Polar Transform Network for Prostate Ultrasound Segmentation with Uncertainty Estimation"**](https://doi.org/10.1016/j.media.2022.102418).
