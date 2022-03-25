@@ -19,3 +19,8 @@ This is a python (PyTorch) implementation of **Polar Transform Network (PTN)** m
 
 ### Architecture of Polar Transform Network
 <img src="./fig1.png"/>
+
+## Contact
+You are welcome to contact us:
+[xux12@rpi.edu](mailto:xux12@rpi.edu)
+[superxuang@gmail.com](mailto:superxuang@gmail.com)
