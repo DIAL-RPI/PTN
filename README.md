@@ -16,6 +16,9 @@ This is a python (PyTorch) implementation of **Polar Transform Network (PTN)** m
       doi={10.1016/j.media.2022.102418}
     }
 
+## Update
+  - **Mar 31, 2022**: You can access the final version of our article on *ScienceDirect* through the [Personalized Share Link](https://authors.elsevier.com/c/1eo-W_UzlO11E5) provided by *Elsevier* (available before *May 15, 2022*).
+
 ## Abstract
 Automatic and accurate prostate ultrasound segmentation is a long-standing and challenging problem due to the severe noise and ambiguous/missing prostate boundaries. In this work, we propose a novel polar transform network (PTN) to handle this problem from a fundamentally new perspective, where the prostate is represented and segmented in the polar coordinate space rather than the original image grid space. This new representation gives a prostate volume, especially the most challenging apex and base sub-areas, much denser samples than the background and thus facilitate the learning of discriminative features for accurate prostate segmentation. Moreover, in the polar representation, the prostate surface can be efficiently parameterized using a 2D surface radius map with respect to a centroid coordinate, which allows the proposed PTN to obtain superior accuracy compared with its counterparts using convolutional neural networks while having significantly fewer (18%~41%) trainable parameters. We also equip our PTN with a novel strategy of centroid perturbed test-time augmentation (CPTTA), which is designed to further improve the segmentation accuracy and quantitatively assess the model uncertainty at the same time. The uncertainty estimation function provides valuable feedback to clinicians when manual modifications or approvals are required for the segmentation, substantially improving the clinical significance of our work. We conduct a three-fold cross validation on a clinical dataset consisting of 315 TRUS images to comprehensively evaluate the performance of the proposed method. The experimental results show that our proposed PTN with CPTTA outperforms the state-of-the-art methods with statistical significance on most of the metrics while exhibiting a much smaller model size. Source code of the proposed PTN is released at [https://github.com/DIAL-RPI/PTN](https://github.com/DIAL-RPI/PTN).
 
@@ -28,5 +31,5 @@ Automatic and accurate prostate ultrasound segmentation is a long-standing and c
 
 ## Contact
 You are welcome to contact us:  
-  - [xux12@rpi.edu](mailto:xux12@rpi.edu)(Xuanang Xu)  
-  - [superxuang@gmail.com](mailto:superxuang@gmail.com)(Xuanang Xu)
+  - [xux12@rpi.edu](mailto:xux12@rpi.edu)(Dr. Xuanang Xu)  
+  - [superxuang@gmail.com](mailto:superxuang@gmail.com)(Dr. Xuanang Xu)
