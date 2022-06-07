@@ -4,12 +4,13 @@ Polar Transform Network for Prostate Ultrasound Segmentation with Uncertainty Es
 This is a python (PyTorch) implementation of **Polar Transform Network (PTN)** method for prostate ultrasound segmentation proposed in our ***Medical Image Analysis*** journal paper [**"Polar Transform Network for Prostate Ultrasound Segmentation with Uncertainty Estimation"**](https://doi.org/10.1016/j.media.2022.102418).
 
 ## Citation
-  *X. Xu et al., "Polar transform network for prostate ultrasound segmentation with uncertainty estimation," Med. Image Anal., 2022.*
+  *X. Xu et al., "Polar transform network for prostate ultrasound segmentation with uncertainty estimation," Med. Image Anal., vol. 78, May 2022, Art. no. 102418.*
 
     @article{Xu2022PTN,
       title={Polar transform network for prostate ultrasound segmentation with uncertainty estimation}, 
       author={Xu, Xuanang and Sanford, Thomas and Turkbey, Baris and Xu, Sheng and Wood, Bradford J. and Yan, Pingkun},
       journal={Medical Image Analysis}, 
+      volume = {78},
       pages={102418},
       year={2022},
       publisher={Elsevier}
