@@ -13,7 +13,7 @@ This is a python (PyTorch) implementation of **Polar Transform Network (PTN)** m
       volume = {78},
       pages={102418},
       year={2022},
-      publisher={Elsevier}
+      publisher={Elsevier},
       doi={10.1016/j.media.2022.102418}
     }
 
